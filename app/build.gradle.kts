@@ -1,5 +1,5 @@
 // Define el alias para el plugin KSP
-@Suppress("DSL_SCOPE_VIOLATION")
+/*@Suppress("DSL_SCOPE_VIOLATION")
 plugins {
     alias(libs.plugins.android.application)
     alias(libs.plugins.kotlin.android)
@@ -85,3 +85,4 @@ dependencies {
     debugImplementation(libs.androidx.ui.tooling)
     debugImplementation(libs.androidx.ui.test.manifest)
 }
+*/
